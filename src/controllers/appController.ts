@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { Thought } from "../models/Thought.js";
+import { Thought } from "../models/thought.js";
 import User from "../models/User.js";
 import mongoose from "mongoose";
 

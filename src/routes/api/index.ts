@@ -1,7 +1,6 @@
 import { Router } from "express"
 
-const router = Router();import { Router } from "express";
-const router = Router();
+const router = Router(); 
 // import appRoutes from "./appRoutes.js";
 import userRoutes from "./userRoutes.js";
 import thoughtRoute from "./thoughts.js";

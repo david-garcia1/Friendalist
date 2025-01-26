@@ -1,6 +1,6 @@
 import connection from "../config/connection.js";
 import User from "../models/User.js";
-import { Thought }  from "../models/Thought.js";
+import { Thought }  from "../models/thought.js";
 import {
   getRandomUsername,
   getRandomEmail,

@@ -1,6 +1,6 @@
 import { User } from "../models/index.js";
 import { Request, Response } from "express";
-import { Thought } from "../models/Thought.js";
+import { Thought } from "../models/thought.js";
 import mongoose from "mongoose";
 // Get all users
 export const getUsers = async (_req: Request, res: Response) => {
